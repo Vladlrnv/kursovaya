@@ -36,3 +36,4 @@ def main(date: str, df_transactions, stocks: list, currency: list):
     )
     logger.info("Завершение работы главной функции (main)")
     return date_json
+
